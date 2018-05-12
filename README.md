@@ -1,3 +1,17 @@
+HEROES-OF-PYMOLI 
+
+OBSERVED TREND 1:
+There is a 81% Male Population of Players which creates the overall increase in Item sales, which was a total of $1867.68.
+
+OBSERVED TREND 2:
+Within the Player population, the age group that caused this huge spike in purchse counts were between 16 and 25 year olds. Taking the bigger count at 39% is mostly 21-25 year age groups.
+
+OBSERVED TREND 3:
+As we dive into more detail regarding the players, there are some top spenders amonst the group that are purchasing more than 2 or 3 games at a total purchase value $9+. These games that are hot ticket items are: Betrayal, Whisper of Grieving Widows and Arcane Gem.
+
+
+
+
 
 
 ```python
